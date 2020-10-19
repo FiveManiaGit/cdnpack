@@ -16,7 +16,7 @@ Simply running `cdnpack` _(`cdnpack.exe` on Windows, if the program isn't in you
 
 
 #### Windows
-**1.** Download the executable from the releases page to your user folder _(`C:\Windows\Users\<your name>/`)_.
+**1.** Download the executable from the releases page to your user folder _(`C:\Windows\Users\<your name>\`)_.
 
 **2.** Open your CMD and type in `SET "PATH=C:\Windows\Users\<your name>\cdnpack.exe;%PATH%"` to add the program to your path.
 
