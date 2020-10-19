@@ -9,12 +9,16 @@ Simply running `cdnpack` _(`cdnpack.exe` on Windows, if the program isn't in you
 ### How to install it?
 #### macOS and Linux
 **1.** Grab the executable binary from the releases page.
+
 **2.** With root privileges, move the binary to the `/usr/bin` or `/usr/local/bin` folder.
+
 **3.** Profit.
 
 #### Windows
 **1.** Download the executable from the releases page to your user folder _(`C:\Windows\Users\<your name>/`)_.
+
 **2.** Open your CMD and type in `SET "PATH=C:\Windows\Users\<your name>\cdnpack.exe;%PATH%"` to add the program to your path.
+
 **3.** Profit.
 
 _**Tip:** You can replace the `<your name>` fields with `%user%`._
