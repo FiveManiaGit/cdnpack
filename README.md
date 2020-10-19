@@ -14,6 +14,7 @@ Simply running `cdnpack` _(`cdnpack.exe` on Windows, if the program isn't in you
 
 **3.** Profit.
 
+
 #### Windows
 **1.** Download the executable from the releases page to your user folder _(`C:\Windows\Users\<your name>/`)_.
 
